@@ -4,7 +4,8 @@ of all varieties. I am especially interested in the use of data science to help 
 reached at msellers8472@gmail.com.
 
 Papers I have written in the course of my graduate coursework can be found below:
-https://docs.google.com/document/d/1hkCcwy1m--CXedZTfiLn_1opCNE2Lzbp1NpTqcNwSz4/edit?usp=sharing
+<a href="https://docs.google.com/document/d/1hkCcwy1m--CXedZTfiLn_1opCNE2Lzbp1NpTqcNwSz4/edit?usp=sharing">How COVID-19 Affected Airbnb Market-Seattle, Washington</a>
+
 https://docs.google.com/document/d/1IUKWrOXa86Ck1e7J3OU06b6rmu2R2eTdUDqragPnYj0/edit?usp=sharing
 https://drive.google.com/file/d/1M0z6o1dgcNrzddmrmlGX5E452IE3SRDW/view?usp=sharing
 

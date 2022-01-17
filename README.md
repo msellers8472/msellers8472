@@ -6,9 +6,10 @@ reached at msellers8472@gmail.com.
 Papers I have written in the course of my graduate coursework can be found below:
 <br>
 <a href="https://docs.google.com/document/d/1hkCcwy1m--CXedZTfiLn_1opCNE2Lzbp1NpTqcNwSz4/edit?usp=sharing">How COVID-19 Affected Airbnb Market-Seattle, Washington</a>
-
-https://docs.google.com/document/d/1IUKWrOXa86Ck1e7J3OU06b6rmu2R2eTdUDqragPnYj0/edit?usp=sharing
-https://drive.google.com/file/d/1M0z6o1dgcNrzddmrmlGX5E452IE3SRDW/view?usp=sharing
+<br>
+<a href="https://docs.google.com/document/d/1IUKWrOXa86Ck1e7J3OU06b6rmu2R2eTdUDqragPnYj0/edit?usp=sharing">Project Report: CASETiFY’s Re/CASETiFY Program</a>
+<br>
+<a href="https://drive.google.com/file/d/1M0z6o1dgcNrzddmrmlGX5E452IE3SRDW/view?usp=sharing">A Comparison of English-French, English-German, and English-Italian Translation Models</a>
 
 <!---
 msellers8472/msellers8472 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
